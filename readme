@@ -1,0 +1,9 @@
+Code for 2 Arduino Unos paired with I2C. 
+
+Gameplay summary:
+-	The player must use tweezers to extract pieces within a tight time limit.
+- A green LED lights up when a piece is ready for operation, then goes yellow and red as time runs out.
+-	The player wins points by making a successful extraction and pressing the button - the faster the extraction, the more points.
+- If the player's hand slips and hits the metal border, the clock speeds up! 
+- As the game progresses, more and more pieces light up faster and faster, filling the game with high-intensity fun (although maybe not so fun for the patient). 
+-	Points are tracked across multiple rounds of gameplay and displayed on the LCD screen. 
